@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Nueva pestaña",
+  "Type": "App",
+  "Id": "BuL8re6tpUqL3BRUzeGREA",
+  "Reference": "vk3VdnB1vk68_7qBqhuctg/BuL8re6tpUqL3BRUzeGREA",
+  "Created": "2024-08-01T23:17:45.7083329Z",
+  "Updated": "2024-08-01T23:17:45.7083329Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
